@@ -1,0 +1,10 @@
+requests
+websocket-client
+pyaudio
+sounddevice
+soundfile
+beautifulsoup4
+deepgram-sdk
+groq
+python-dotenv
+lxml

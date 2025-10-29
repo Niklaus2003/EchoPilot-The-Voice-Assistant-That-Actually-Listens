@@ -1,0 +1,117 @@
+[2025-06-26 13:13:34] user: about deepgram data privacy complaints.
+[2025-06-26 13:13:35] assistant: I couldn't find that information.
+[2025-06-26 13:13:47] user: gram data privacy complaint.
+[2025-06-26 13:13:48] assistant: I couldn't find that information.
+[2025-06-26 13:13:59] user: gram data privacy complaints.
+[2025-06-26 13:14:00] assistant: I couldn't find that information.
+[2025-06-26 13:14:12] user: deepgram data privacy complaints.
+[2025-06-26 13:14:13] assistant: I couldn't find that information.
+[2025-06-26 13:14:21] user: what do you know about
+[2025-06-26 13:14:22] assistant: I'd be happy to help!
+[2025-06-26 13:14:31] user: do you know about soc?
+[2025-06-26 13:14:34] assistant: According to the provided context, Deepgram has achieved SOC 2 Type 1 and Type 2 certification. This means that an independent auditor has evaluated the security controls and procedures used to protect the data processed in the cloud and has assessed the operational effectiveness of the systems.
+[2025-06-26 13:14:43] user: goodbye.
+[2025-06-26 13:44:51] user: is deepgram pc complaint.
+[2025-06-26 13:44:52] assistant: According to the context, Deepgram is PCI compliant, and performs a yearly review of their standing within the framework.
+[2025-06-26 13:45:12] user: bye
+[2025-06-26 13:45:13] assistant: I couldn't find that information.
+[2025-06-26 13:45:24] user: exit.
+[2025-06-26 13:53:03] user: what was the previous question i asked?
+[2025-06-26 13:53:04] assistant: I couldn't find that information.
+[2025-06-26 13:53:20] user: what certification does
+[2025-06-26 13:53:21] assistant: Based on the provided context, I can answer that Deepgram has achieved SOC 2 Type 1 and Type 2 certification.
+[2025-06-26 13:53:36] user: deepgram it
+[2025-06-26 13:53:37] assistant: I couldn't find that information.
+[2025-06-26 13:53:46] user: deep
+[2025-06-26 13:53:47] assistant: I couldn't find that information.
+[2025-06-26 13:53:58] user: gdpr.
+[2025-06-26 13:53:58] assistant: Deepgram is GDPR ready. We provide information to our customers to help them understand how features and functionality of our platform may affect their GDPR compliance obligations.
+[2025-06-26 13:54:18] user: closed the previous question i asked
+[2025-06-26 13:54:22] assistant: I couldn't find that information.
+[2025-06-26 13:54:31] user: what is the previous question i asked
+[2025-06-26 13:54:32] assistant: I couldn't find that information.
+[2025-06-26 13:54:42] user: question number one.
+[2025-06-26 13:54:42] assistant: I couldn't find that information. The provided context only contains information about Deepgram's data privacy compliance with various frameworks and certifications, but it does not contain a "question number one". If you have a specific question, I'll do my best to help you find the answer within the provided context.
+[2025-06-26 13:59:17] user: exit.
+[2025-06-26 13:59:33] user: if deepgram soc certificate.
+[2025-06-26 13:59:34] assistant: According to the provided context, Deepgram has achieved SOC 2 Type 1 and Type 2 certification. An independent auditor has evaluated the security controls and procedures we use to protect the data we process in the cloud and has assessed the operational effectiveness of our systems.
+
+For access to SOC 2 certificates, please contact us.
+[2025-06-26 13:59:50] user: give me back my question.
+[2025-06-26 13:59:50] assistant: Your original question was: if deepgram soc certificate.
+[2025-06-26 14:00:09] user: does deepgram retain my voice data.
+[2025-06-26 14:00:10] assistant: I couldn't find that information.
+[2025-06-26 14:00:25] user: all do you know?
+[2025-06-26 14:00:26] assistant: Based on the provided context, I can tell you that Deepgram maintains and meets the requirements for multiple data privacy compliance frameworks and certifications, including SOC 2, GDPR, HIPAA, CCPA, and PCI. They also provide information to help customers understand how their platform may affect their compliance obligations.
+
+However, I couldn't find any specific information on what Deepgram knows or retains about your voice data. If you're looking for information on data retention, I'm afraid I couldn't find that information.
+[2025-06-26 14:01:04] user: what certification does
+[2025-06-26 14:01:06] assistant: Based on the provided context, I can tell you that Deepgram has achieved SOC 2 Type 1 and Type 2 certification.
+[2025-06-26 14:01:21] user: what was my previous question?
+[2025-06-26 14:01:22] assistant: Based on the recent conversation, your previous question was "what certification does".
+[2025-06-26 14:01:37] user: exit.
+[2025-06-26 15:46:22] user: chat owned
+[2025-06-26 15:46:22] assistant: I couldn't find that information.
+[2025-06-26 15:46:50] user: if deepgram soc certified.
+[2025-06-26 15:46:51] assistant: According to the context, Deepgram has achieved SOC 2 Type 1 and Type 2 certification.
+[2025-06-26 15:47:05] user: quit
+[2025-06-26 15:47:06] assistant: The user has asked to quit the conversation. Since there is no further question, I will end the conversation here.
+[2025-06-26 15:47:40] user: sorry. alexa, exit.
+[2025-09-18 16:04:38] user: hello.
+[2025-09-18 16:06:51] user: how does deepgram handle user data?
+[2025-09-18 16:10:45] user: hello.
+[2025-09-18 16:10:46] assistant: Hello. It seems like you've already said hello earlier. Is there something specific you'd like to know or discuss about Deepgram?
+[2025-09-18 16:13:21] user: how does deepgram handle user data?
+[2025-09-18 16:13:22] assistant: Deepgram maintains and meets the requirements for multiple data privacy compliance frameworks and certifications. To protect the data we process in the cloud, we use security controls and procedures that are evaluated and assessed by an independent auditor. 
+
+For specific information on how Deepgram handles user data, please refer to our Data Privacy Compliance page, which mentions that we are compliant with various data protection regulations such as GDPR, HIPAA, CCPA, and PCI. 
+
+However, for detailed information on how Deepgram handles user data, you may want to contact your Account Executive to request Deepgram compliance documentation or refer to our Business Associate Agreement for customers who qualify as a Covered Entity under US HIPAA legislation.
+[2025-09-18 16:14:27] user: what is soc?
+[2025-09-18 16:14:28] assistant: SOC stands for Service Organization Control. It's a framework used to evaluate the internal controls of a service organization, such as Deepgram, that stores, processes, or transmits sensitive data. In our case, Deepgram has achieved SOC 2 Type 1 and Type 2 certification, which means an independent auditor has evaluated and assessed the security controls and procedures we use to protect the data we process in the cloud.
+[2025-09-18 16:14:50] user: what is cc?
+[2025-09-18 16:14:50] assistant: I couldn't find that information.
+[2025-09-18 16:15:00] user: what is gdpr?
+[2025-09-18 16:15:00] assistant: GDPR stands for the General Data Protection Regulation, a European Union regulation that secures privacy rights for EU citizens and gives them more control over the personal information that businesses collect about them. Deepgram is GDPR ready and provides information to our customers to help them understand how features and functionality of our platform may affect their GDPR compliance obligations.
+[2025-09-18 16:15:12] user: many certification does deepgram have.
+[2025-09-18 16:15:12] assistant: Deepgram has achieved multiple data privacy compliance frameworks and certifications, including:
+
+1. SOC 2 Type 1 and Type 2 certification
+2. GDPR compliance
+3. HIPAA compliance (considered a Business Associate)
+4. CCPA compliance
+5. PCI compliance
+
+To request Deepgram compliance documentation, you can talk to your Account Executive.
+[2025-09-18 16:17:55] user: how does deepgram handle user data?
+[2025-09-18 16:17:55] assistant: According to the provided context, Deepgram maintains and meets the requirements for multiple data privacy compliance frameworks and certifications. However, it does not explicitly state how Deepgram handles user data. 
+
+But it does mention that an independent auditor has evaluated the security controls and procedures Deepgram uses to protect the data they process in the cloud and has assessed the operational effectiveness of their systems. This suggests that Deepgram has measures in place to protect user data, but the specific details of how they handle user data are not provided in the given context.
+
+Therefore, I couldn't find that information.
+[2025-09-18 16:18:59] user: water does soc?
+[2025-09-18 16:19:00] assistant: SOC stands for Service Organization Control. It's a framework used to evaluate the internal controls of a service organization, like Deepgram, that hosts customer data in the cloud. 
+
+In the context, it's mentioned that Deepgram has achieved SOC 2 Type 1 and Type 2 certification. This means that an independent auditor has evaluated Deepgram's security controls and procedures to protect customer data in the cloud and has assessed the operational effectiveness of their systems.
+[2025-09-18 16:19:19] user: how does deepgram handle user data?
+[2025-09-18 16:19:19] assistant: Deepgram maintains and meets the requirements for multiple data privacy compliance frameworks and certifications. However, the specific details on how Deepgram handles user data are not explicitly mentioned in the provided context. 
+
+To get more information on how Deepgram handles user data, you may want to contact your Account Executive or refer to Deepgram's privacy policy, which is mentioned in the context as being available on their website.
+[2025-09-18 16:19:38] user: how many certification does deepgram have?
+[2025-09-18 16:19:38] assistant: Deepgram has achieved SOC 2 Type 1 and Type 2 certification.
+[2025-09-18 16:22:02] user: who is the president of india?
+[2025-09-18 16:22:03] assistant: I couldn't find that information.
+[2025-09-18 16:22:25] user: tell me who the president of india is?
+[2025-09-18 16:22:26] assistant: I couldn't find that information.
+[2025-09-18 16:22:40] user: how does deepgram handle user data?
+[2025-09-18 16:22:40] assistant: Deepgram maintains and meets the requirements for multiple data privacy compliance frameworks and certifications. According to the provided information, Deepgram has achieved SOC 2 Type 1 and Type 2 certification, and is also GDPR ready. 
+
+As for handling user data, Deepgram provides information to its customers to help them understand how features and functionality of their platform may affect their GDPR compliance obligations. Additionally, for Deepgram customers who qualify as a Covered Entity under US HIPAA legislation and related legislation and regulations and who provide ePHI (electronic Protected Health Information) to Deepgram, Deepgram may qualify as a business associate.
+[2025-09-18 16:23:01] user: does soc?
+[2025-09-18 16:23:01] assistant: SOC is mentioned in the context as SOC 2, which is a data privacy compliance framework. According to the provided information, Deepgram has achieved SOC 2 Type 1 and Type 2 certification.
+[2025-09-18 16:23:17] user: how many certification does deepgram have?
+[2025-09-18 16:23:17] assistant: Deepgram has achieved SOC 2 Type 1 and Type 2 certification, and is also GDPR ready.
+[2025-09-18 16:23:31] user: tell me what is gdpr.
+[2025-09-18 16:23:31] assistant: GDPR stands for the General Data Protection Regulation, a data privacy compliance framework. According to the provided information, Deepgram is GDPR ready and provides information to its customers to help them understand how features and functionality of their platform may affect their GDPR compliance obligations.
+[2025-09-18 16:24:09] user: what is soc?
+[2025-09-18 16:24:09] assistant: SOC is mentioned in the context as SOC 2, which is a data privacy compliance framework.
